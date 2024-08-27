@@ -57,7 +57,7 @@
                            <a class="nav-link " href="blog.html">Blog</a>
                         </li> --}}
                         <li class="nav-item">
-                           <a class="nav-link " href="contact.html">Contact</a>
+                           <a class="nav-link " href="contacts.html">Contact</a>
                         </li>
                      </ul>
                   </div>
